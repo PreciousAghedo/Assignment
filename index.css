@@ -1,0 +1,362 @@
+body{
+
+    color: black;
+
+    background: black;
+
+    font-size: 30px;
+
+}
+
+ 
+
+#name{
+    border: 0px;
+    margin-bottom: 10px ;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    color: black;
+    outline: none;
+    padding: 7px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-left: 30px;
+    width: 550px;
+    font-size: 20pt;
+}
+
+#email{
+    border: 0px;
+    margin-bottom: 10px ;
+    border-bottom: 3px solid rgb(163, 158, 158);
+    color: black;
+    outline: none;
+    padding: 7px;
+    padding-left: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    width: 550px;
+    font-size: 20pt;
+}
+
+ 
+
+#personCount {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+ 
+
+#container{
+
+    margin-left: 450px;
+
+    width: 40%;
+
+    background: white;
+
+    padding-top: 50px;
+
+    padding: 60px;
+
+}
+
+ 
+
+#total{
+
+    border: 0px;
+
+    outline: none;
+
+    border-bottom: 3px solid rgb(153, 148, 148);
+
+    width: 620px;
+
+    font-size: 30px;
+
+   
+
+}
+
+#date{
+
+    display: flex;
+
+    font-size: 20pt;
+
+    color: rgb(83, 81, 81);
+
+    margin-top: 10pc;
+
+}
+
+ 
+
+.date1{
+
+width: 80px;
+
+height: 50px;
+
+border: transparent;
+
+border-bottom: 3px solid rgb(153, 148, 148);
+
+font-size: 20pt;
+
+padding-left: 5%;
+
+margin-left: 32px;
+
+margin-top: 3pc;
+
+}
+
+ 
+
+.date2{
+
+    width: 80px;
+
+    height: 50px;
+
+    border: transparent;
+
+    border-bottom: 3px solid rgb(153, 148, 148);
+
+    font-size: 20pt;
+
+    padding-left: 5%;
+
+    margin-left: 31px;
+
+    margin-top: 3pc;
+
+}
+
+.date3{
+
+    width: 80px;
+
+    height: 50px;
+
+    border: transparent;
+
+    border-bottom: 3px solid rgb(153, 148, 148);
+
+    font-size: 20pt;
+
+    padding-left: 5%;
+
+    margin-left: 31px;
+
+    margin-top: 3pc;
+
+}
+
+ 
+
+#time{
+
+    border: 0px;
+
+    outline: none;
+
+    font-size: 20pt;
+
+    color: rgb(83, 82, 82);
+
+}
+
+#time1{
+
+ 
+
+border: transparent;
+
+border-bottom: 3px solid rgb(153, 148, 148);
+
+height: 50px;
+
+width: 80px;
+
+padding-left: 5%;
+
+margin-left: 35px;
+
+font-size: 20pt;
+
+}
+
+ 
+
+#time2{
+
+    border: transparent;
+
+    border-bottom: 3px solid rgb(153, 148, 148);
+
+    height: 50px;
+
+    width: 70px;
+
+    margin-left: 35px;
+
+    font-size: 20pt;
+
+    padding-left: 10%;
+
+}
+
+#time3{
+
+    border: 0px;
+
+    border-bottom: 3px solid rgb(153, 148, 148);
+
+    height: 50px;
+
+    width: 80px;
+
+    margin-top: 15%;
+
+    margin-right: -100%;
+
+}
+
+ 
+
+#Email{
+
+    border: 0px;
+
+    border-bottom: 2px solid rgb(153, 148, 148);
+    padding: 10px;
+
+    margin-bottom: 10px;
+
+    outline: none;
+
+}
+
+ 
+
+#btnContainer {
+
+    display: flex;
+
+    justify-content: center;
+
+ 
+
+}
+
+ 
+
+#btn2{
+
+    color: white;
+
+    background: black;
+
+    width: 620px;
+
+    height: 80px;
+
+    margin: 0 auto;
+
+    margin-top: 10%;
+
+ 
+
+}
+
+ 
+
+#inc{
+
+    border: 0px;
+
+    outline: none;
+
+    font-size: 30px;
+
+    margin-right: 10%;
+
+    background: white;
+
+    margin-top: 30px;
+
+}
+
+ 
+
+#dec{
+
+    border: 0px;
+
+    outline: none;
+
+    font-size: 30px;
+
+    margin-left: 10%;
+
+    background: white;
+
+    margin-top: 30px;
+
+}
+
+ 
+
+#personTextline{
+
+    width: 100%;
+
+    border: transparent;
+
+    border-bottom: 2px solid rgb(153, 148, 148);
+
+    margin-left: 20px;
+
+}
+
+#personText{
+
+    margin-top: 50px;
+
+}
+
+select{
+
+    width: 80px;
+
+    height: 40px;
+
+    margin-top: 100px;
+
+    margin-left: 60px;
+
+    font-size: large;
+
+    border-bottom: 1px solid rgb(153, 148, 148);
+
+   
+
+}
+
+hr{
+
+    width: 550px;
+    border-bottom: 1px solid gray;
+}

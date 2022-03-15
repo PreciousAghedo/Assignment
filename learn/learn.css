@@ -1,0 +1,167 @@
+body{
+    background-color: black;
+    width: 90vw;
+    height: 90vh;
+    background-size: contain;
+}
+#container{
+    width: 60%;
+    height: 125%;
+    background-color: white;
+    margin-left: 20pc;
+    margin-top: 20px;
+}
+#form{
+    padding: 50px;
+    
+}
+#name{
+    border: 0px;
+    margin-bottom: 10px ;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    color: black;
+    outline: none;
+    padding: 7px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-left: 30px;
+    width: 550px;
+    font-size: 20pt;
+}
+#email{
+    border: 0px;
+    margin-bottom: 10px ;
+    border-bottom: 3px solid rgb(163, 158, 158);
+    color: black;
+    outline: none;
+    padding: 7px;
+    padding-left: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    width: 550px;
+    font-size: 20pt;
+}
+.PickADate{
+    margin-left: 20px;
+    font-size: 20pt;
+    color: rgb(41, 38, 38);
+    padding: 7px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 20pc;
+}
+.date1{
+    border: none;
+    margin-left: 50px;
+    font-size: 20pt;
+    padding: 7px;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    width: 80px;
+    padding-bottom: 20px;
+    padding-top: 10px
+
+}
+.date2{
+    border: none;
+    margin-left: 52px;
+    font-size: 20pt;
+    padding: 7px;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    width: 80px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+     
+}
+.date3{
+    border: none;
+    margin-left: 52px;
+    font-size: 20pt;
+    padding: 7px;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    width: 80px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+
+.PickATime{
+    margin-left: 20px;
+    font-size: 20pt;
+    color: rgb(44, 43, 43);
+    padding: 7px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 20pc;  
+}
+.time1{
+    border: none;
+    margin-left: 48px;
+    font-size: 20pt;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid rgb(163, 160, 160);
+    width: 80px;
+
+}
+select{
+    border: none;
+    margin-left: 48px;
+    font-size: 20pt;
+    padding: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 90px;
+    color: brown;
+    border-bottom: 3px solid rgb(163, 160, 160);
+}
+#increase{
+    border: none;
+    margin-left: 80px;
+    color: brown;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+    size: 10px;  
+}
+#Person{
+    margin-left: 150px;
+    font-size: 20pt;
+    color: black;
+    padding: 15px;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    margin-top: 5%;
+}
+hr{
+    width: 550px;
+    border-bottom: 1px solid gray;
+}
+#decrease{
+    margin-left: 120px;
+    border: 0px;
+    color: brown;
+    padding: 10px;  
+    border: transparent;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+#reserve{
+    margin-left: 30px;
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom:5px ;
+    padding-left: 10px;
+    font-size: 10pt;
+    width: 550px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+}
